@@ -24,13 +24,12 @@ Autm-rb can be used for both portfolio and blogging.
 - embeded video support
 - cool colors
 
-<a href="https://github.com/railsr/autm-rb" target="_blank" class="btn btn-success"><i class="fa fa-github fa-lg"></i> View on GitHub</a>
+<a href="https://github.com/kiidbrian/autm-rb" target="_blank" class="btn btn-success"><i class="fa fa-github fa-lg"></i> View on GitHub</a>
 
-## Author
+## Benefactor
 
-[Kirill Beletskiy](https://twitter.com/railsr7)
+[Brian Paintsil](https://twitter.com/kiid_brian)
 
-![](https://pbs.twimg.com/profile_images/456926462780530688/fXBRjK6e_400x400.jpeg)
+![](/images/personal/pp.png)
 
-<p><a href="https://twitter.com/railsr7" class="twitter-follow-button" data-show-count="true" data-size="large" data-dnt="true">Follow @railsr7</a></p>
-<p class="text-muted">btw, I dont use twitter much</p>
+<p><a href="https://twitter.com/kiid_brian" class="twitter-follow-button" data-show-count="true" data-size="large" data-dnt="true">Follow @kiid_brian</a></p>
