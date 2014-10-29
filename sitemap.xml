@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://kiidbrian.github.io/</loc>
+  <lastmod>2014-10-28T12:52:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://kiidbrian.github.io/blog/</loc>
+  <lastmod>2014-10-28T12:52:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://kiidbrian.github.io/archive/</loc>
+  <lastmod>2014-10-28T12:52:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://kiidbrian.github.io/resume/</loc>
+  <lastmod>2014-10-28T12:52:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://kiidbrian.github.io/commands-to-get-system-information-in-linux/</loc>
+  <lastmod>2014-10-28T12:52:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://kiidbrian.github.io/tags/</loc>
+  <lastmod>2014-10-28T12:52:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://kiidbrian.github.io/projects/</loc>
+  <lastmod>2014-10-28T12:52:31+00:00</lastmod>
+</url>
+</urlset>
