@@ -16,6 +16,18 @@ If you want information about your system on linux, then these commands will hel
 ### pwd
 This command is short for ‘print working directory’, which is exactly what it does.
 
+### ctrl-l
+clear your terminal screen
+
+### curl ifconfig.me
+To find your external IP address
+
+### > file.txt
+Auto-empty any file without removing it
+
+### sudo !!
+Also if you want to open some file to make changes and right when you want to save it, you realise that you forgot to open it as root, there is nothing to worry. The command above is your solution.
+
 ### hostname
 The machine that is currently being worked on is known as the local host. The command ‘netconf’ can be used to change the name of the local host and ‘hostname’ is used to print the local host’s name.
 
