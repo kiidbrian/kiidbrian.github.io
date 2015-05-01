@@ -9,7 +9,7 @@ features:
 - github, stackoverflow, twitter links
 - sharebuttons: twitter, facebook, google plus
 - comments via DISQUS
-- analitics "if you add it"
+- analytics "if you add it"
 - pagination
 - tags
 - codehighlighting
