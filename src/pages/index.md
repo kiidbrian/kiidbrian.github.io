@@ -41,7 +41,7 @@ I am a pragmatic software engineer with extensive experience deploying cutting-e
 
 |                                                   |           |
 | ------------------------------------------------- | --------- |
-| **M.Sc. in Data Science**, University of Stirling | 2024      |
+| **M.Sc. in Data Science**, University of Stirling | 2023-2024 |
 | **B.Sc. in Computer Science**, KNUST              | 2010-2014 |
 
 ---

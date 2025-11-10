@@ -12,9 +12,22 @@ projects:
         - i-logos-typescript-icon
         - i-logos-tailwindcss-icon
       repo: Renovamen/playground-macos
-    - name: greencycle-ng
-      link: https://greencycle-ng-test.vercel.app/
-      desc: A business website
+    - name: flyritenow
+      link: https://flyritenow.com/
+      desc: Flight Booking website
+      icon: oh-my-cv
+      tech:
+        - i-logos-nextjs-icon
+        - i-logos-typescript-icon
+        - i-logos-tailwindcss-icon
+        - i-logos-vercel-icon
+        - i-logos-aws-cloudformation
+        - i-logos-aws
+        - i-logos-github-actions
+      repo: Renovamen/oh-my-cv
+    - name: victoriapaintsil
+      link: https://flyritenow.com/
+      desc: A Blogging website
       icon: oh-my-cv
       tech:
         - i-logos-nextjs-icon

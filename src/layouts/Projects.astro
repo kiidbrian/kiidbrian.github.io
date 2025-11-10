@@ -22,7 +22,7 @@ const {projects} = Astro.props.frontmatter;
   <main class="w-full">
     <div class="flex flex-col">
       <slot />
-      <section id="projects" class="prose mb-28 max-w-3xl prose-img:border-0">
+      <section id="projects" class="prose w-full mb-28 max-w-3xl prose-img:border-0">
         <h2 class="mt-5">Projects</h2>
         {
           Object.keys(projects).map((key) => (
