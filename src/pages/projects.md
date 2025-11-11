@@ -26,7 +26,7 @@ projects:
         - i-logos-github-actions
       repo: Renovamen/oh-my-cv
     - name: victoriapaintsil
-      link: https://flyritenow.com/
+      link: https://victoriapaintsil.com/
       desc: A Blogging website
       icon: oh-my-cv
       tech:
