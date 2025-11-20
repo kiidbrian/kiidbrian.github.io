@@ -32,6 +32,7 @@ I am a pragmatic software engineer with extensive experience deploying cutting-e
 
 |                                                                                            |           |
 | ------------------------------------------------------------------------------------------ | --------- |
+| **Lead Engineer**, _[Flyritenow](https://www.flyritenow.com)_, London, UK                  | 2025-      |
 | **Senior Software Engineer**, _[Global Nomads Group](https://www.gng.org)_, New York, USA  | 2022–2024 |
 | **Senior Software Engineer**, _[Sevenrooms](https://www.sevenrooms.com)_, New York, USA    | 2020–2022 |
 | **Software Engineer**, _[Pluralsight](https://www.pluralsight.com)_, Durango Colorado, USA | 2019-2020 |

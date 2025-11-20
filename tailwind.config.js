@@ -80,7 +80,13 @@ export default {
     require("@tailwindcss/typography"),
     require("@xpd/tailwind-3dtransforms"),
     iconsPlugin({
-      collections: getIconCollections(["mdi", "lucide", "logos", "tabler", "mage"]),
+      collections: getIconCollections([
+        "mdi",
+        "lucide",
+        "logos",
+        "tabler",
+        "mage",
+      ]),
     }),
   ],
 };

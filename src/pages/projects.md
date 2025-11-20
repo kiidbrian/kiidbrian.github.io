@@ -70,4 +70,19 @@ projects:
         - i-mage-playstore
         - i-logos-firebase
       repo: Renovamen/oh-vue-icons
+  Augmented Reality:
+    - name: eschatos
+      link: https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=9e4f1bc9c1cb4757ace96d7731ad7631&metadata=01
+      desc: A snap lens for eschatos church
+      icon: simple-icons
+      tech:
+        - i-mdi-snapchat
+      repo: Snapchat/my-lenses
+    - name: TSCI
+      link: https://www.snapchat.com/lens/02df8f2a38f1415bb9752b25a5d57d26?type=SNAPCODE&metadata=01
+      desc: A snap lens for True Son Chapel
+      icon: simple-icons
+      tech:
+        - i-mdi-snapchat
+      repo: Snapchat/my-lenses
 ---
