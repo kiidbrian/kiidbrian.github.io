@@ -4,7 +4,7 @@ name: Brian Paintsil
 subname: kiidbrian
 avatarFront: img/avatar.png
 avatarBack: img/avatar.png
-tltr: I do machine learning by day and build things for the web by night.
+tltr: I build the web by day and eval models by night.
 socials:
   - icon: i-academicons:cv
     link: /files/cv/en.pdf
@@ -26,7 +26,17 @@ socials:
 
 ## Bio
 
-I am a pragmatic software engineer with extensive experience deploying cutting-edge tech solutions across industries like E-commerce, FinTech, Payments, Hospitality and most recently Education. My expertise spans Web and Mobile Development, Middleware Architecture, and Data Pipeline Integration. I’ve led the technological foundation of US startups and transformed a major Ghanaian Bank’s data modeling with innovative cloud services. Recently, I completed my master’s in [Data Science](https://www.stir.ac.uk/courses/pg-taught/data-science-for-business/) at the [University of Stirling](https://www.stir.ac.uk/), gaining skills in machine learning, big data, and advanced statistical analysis. Join me in building impactful technology infrastructures and leading teams to operational excellence.
+I'm a pragmatic software engineer and data scientist passionate about building reliable, scalable systems that solve real-world problems.
+
+With deep experience across E-commerce, FinTech, Payments, Hospitality, and Education, I've led the technical foundation of multiple US startups and modernized data modeling for a major Ghanaian bank using cloud-native services. My skill set spans full-stack web & mobile development, middleware architecture, robust data pipelines, and now — after completing my M.Sc. in Data Science at the University of Stirling — machine learning, big data processing, and advanced analytics.
+
+Highlights include:
+* Architecting high-throughput payment & booking platforms serving thousands of daily users
+* Migrating legacy banking data models to cloud environments for improved performance & cost efficiency
+* Leading cross-functional teams to deliver production-grade solutions under tight deadlines
+
+I'm always excited to collaborate on challenging projects, mentor emerging talent, or help organizations turn data into actionable impact.Let's build something meaningful — reach out if you're working on innovative tech in Africa, fintech, edtech, or scalable infrastructure!
+
 
 ## Industry Experience
 

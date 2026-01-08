@@ -1,10 +1,10 @@
 ---
 layout: ../layouts/Projects.astro
 projects:
-  Websites:
+  Web:
     - name: kiidbrian.github.io
       link: https://kiidbrian.github.io
-      desc: A personal website
+      desc: Portfolio showcasing expertise
       icon: i-ic:twotone-laptop-mac
       tech:
         - i-logos-astro-icon
@@ -14,7 +14,7 @@ projects:
       repo: Renovamen/playground-macos
     - name: flyritenow
       link: https://flyritenow.com/
-      desc: Flight Booking website
+      desc: Fly Now Pay Later Solution
       icon: oh-my-cv
       tech:
         - i-logos-nextjs-icon
@@ -37,7 +37,7 @@ projects:
       repo: Renovamen/oh-my-cv
     - name: myalphatv
       link: https://myalphatv.com/
-      desc: Netflix for christian content
+      desc: The ultimate faith-based streaming platform
       icon: i-ic:twotone-laptop-mac
       tech:
         - i-logos-nextjs-icon
@@ -47,6 +47,13 @@ projects:
         - i-logos-strapi-icon
         - i-logos-aws-cloudformation
       repo: kiidbrian/myalphatv
+  Javascript Libraries:
+    - name: kiidbrian/eslint-config
+      link: https://www.npmjs.com/package/@kiid_brian/eslint-config
+      desc: A comprehensive, flexible ESLint config package for TS and JS projects
+      icon: i-ic:twotone-laptop-mac
+      tech:
+        - i-logos-typescript-icon
   Mobile Apps:
     - name: Nodok
       link: https://play.google.com/store/apps/details?id=com.nodoklogistics.nodok&hl=en
@@ -76,13 +83,13 @@ projects:
       desc: A snap lens for eschatos church
       icon: simple-icons
       tech:
-        - i-mdi-snapchat
+        - i-mdi-snapchat text-yellow-600
       repo: Snapchat/my-lenses
     - name: TSCI
       link: https://www.snapchat.com/lens/02df8f2a38f1415bb9752b25a5d57d26?type=SNAPCODE&metadata=01
       desc: A snap lens for True Son Chapel
       icon: simple-icons
       tech:
-        - i-mdi-snapchat
+        - i-mdi-snapchat text-yellow-600
       repo: Snapchat/my-lenses
 ---

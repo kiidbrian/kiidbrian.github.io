@@ -34,8 +34,11 @@ export interface ProjectItem {
   repo?: string;
 }
 
+export interface PublicationItem {}
+
 export enum Page {
   Projects = "projects",
+  Publications = "publications",
   Blog = "blog",
   About = "about",
   Search = "search",
